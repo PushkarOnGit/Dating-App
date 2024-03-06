@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323534993891",
+    "project_id": "blissbond-a9523",
+    "storage_bucket": "blissbond-a9523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323534993891:android:7ae201a907526a0d1088d6",
+        "android_client_info": {
+          "package_name": "com.example.bliss_bond"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnPCQUNVkyl74I2sRM_KKSKx7TuGAvIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
